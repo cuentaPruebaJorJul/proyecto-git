@@ -97,7 +97,7 @@ Utilizamos ```  git restore``` para volvernos atrás en ese archivo especifico.
     ![git log final](C:\Users\diurno\Desktop\GIT-JulianVillanueva.assets\git log final.JPG)
 
     
-## PARTE COLABORATIVA. (Protpietario)
-    
+## PARTE COLABORATIVA. (Propietario)
 
-    
+
+​    
